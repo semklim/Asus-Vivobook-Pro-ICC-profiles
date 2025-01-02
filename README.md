@@ -1,6 +1,6 @@
-# Asus Vivobook M3500QC/M3500QA OLED ICC Profiles
+# Asus Vivobook Pro OLED M3500QC/M3500QA ICC Profiles
 
-This repository contains the default ICC profiles for the **Asus Vivobook M3500QC OLED** and **M3500QA OLED** laptops. These profiles are factory-calibrated and provided by Asus through the **MyASUS Splendid Version V2.0.0.145** utility on Windows.
+This repository contains the default ICC profiles for the **Asus Vivobook Pro OLED M3500QC** and **M3500QA** laptops. These profiles are factory-calibrated and provided by Asus through the **MyASUS Splendid Version V2.0.0.145** utility on Windows.
 
 ## Why This Repository Exists
 
