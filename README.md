@@ -14,6 +14,16 @@ The original source can be found here:
 👉 [Asus Support - M3500QC](https://www.asus.com/supportonly/m3500qc/helpdesk_download/)  
 Download **MyASUS Splendid** from the "Utilities" section.
 
+Or
+
+You will find your color profiles there.
+
+1) `C:\ProgramData\ASUS\ASUS System Control Interface\AsusOptimization\Splendid`
+
+2) `C:\Windows\System32\spool\drivers\color\AsusICM`
+
+
+
 ## How to Apply the ICC Profiles
 
 ### On Windows
